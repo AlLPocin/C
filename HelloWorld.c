@@ -1,3 +1,4 @@
+// Программа выводит HelloWorld
 #include <stdio.h>
 
 int main()
